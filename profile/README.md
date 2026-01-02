@@ -17,8 +17,9 @@
 |---------|-------------|--------|
 | **OmniTask** | AI-powered task management | 🟢 Live |
 | **OmniBookmark** | Smart bookmark manager with AI | 🟢 Live |
+| **OmniWeb** | Web tools & utilities | 🟢 Live |
 | **SecuScan** | Security vulnerability scanner | 🟢 Live |
-| **OmniMusic** | AI music discovery | 🟢 Live |
+| **Consulting** | Tech consulting services | 🟢 Live |
 
 ## 🛠️ Tech Stack
 
@@ -26,8 +27,7 @@
 
 ## 📫 Contact
 
-- 🌐 [omnirealm.tech](https://omnirealm.tech)
-- 📧 omnirealm.dev@gmail.com
+📧 contact@omnirealm.tech
 
 ---
 
