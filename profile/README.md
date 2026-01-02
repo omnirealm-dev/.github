@@ -1,66 +1,60 @@
-<div align="center">
+<p align="center">
+  <a href="https://omnirealm.tech">
+    <img src="https://omnirealm.tech/og-image.png" alt="OmniRealm" width="400">
+  </a>
+</p>
 
-<img src="https://omnirealm.tech/logo.png" alt="OmniRealm Logo" width="120" />
+<h3 align="center">Let's Build the Future Together</h3>
 
-# OmniRealm
-
-### 🚀 Building the future of productivity & AI-powered tools
-
-[![Website](https://img.shields.io/badge/🌐_Website-omnirealm.tech-2EC6CF?style=for-the-badge)](https://omnirealm.tech)
-[![Twitter](https://img.shields.io/badge/𝕏_Twitter-@OmniRealmDev-000000?style=for-the-badge)](https://twitter.com/OmniRealmDev)
+<p align="center">
+  A complete digital ecosystem for productivity, health & security.<br/>
+  Modern, integrated apps designed to simplify your digital life.
+  <br /><br />
+  <a href="https://omnirealm.tech"><strong>Explore OmniRealm »</strong></a>
+  <br /><br />
+  <a href="https://task.omnirealm.tech">OmniTask</a>
+  ·
+  <a href="https://bookmark.omnirealm.tech">OmniBookmark</a>
+  ·
+  <a href="https://secuscan.omnirealm.tech">SecuScan</a>
+  ·
+  <a href="https://consulting.omnirealm.tech">Consulting</a>
+</p>
 
 ---
 
-</div>
+## 🎯 What We Build
 
-## 🎯 Products
+| Product | Description |
+|---------|-------------|
+| **OmniTask** | AI-augmented task management with Kanban boards |
+| **OmniBookmark** | Smart bookmark manager with AI organization |
+| **SecuScan** | Automated security audits for web applications |
+| **OmniScan** | Document analysis that turns files into actionable data |
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://task.omnirealm.tech/favicon.ico" width="48" /><br/>
-<b>OmniTask</b><br/>
-<sub>AI Task Management</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://bookmark.omnirealm.tech/favicon.ico" width="48" /><br/>
-<b>OmniBookmark</b><br/>
-<sub>Smart Bookmarks</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://omnirealm.tech/favicon.ico" width="48" /><br/>
-<b>OmniWeb</b><br/>
-<sub>Web Tools</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://secuscan.omnirealm.tech/favicon.ico" width="48" /><br/>
-<b>SecuScan</b><br/>
-<sub>Security Scanner</sub>
-</td>
-</tr>
-</table>
+## 🛡️ Our Principles
+
+- **Open Source First** — Transparency and community-driven development
+- **Privacy by Design** — GDPR-compliant, European hosting
+- **Security Priority** — Regular audits, encryption, zero-trust
+- **Quality Standards** — >70% test coverage, sub-100ms response times
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
-</p>
+**Current:** Next.js · React · TypeScript · Tailwind CSS · PostgreSQL · Prisma · tRPC
 
-## 📫 Contact
+**Exploring:** Rust · WebAssembly · Spatial Computing · Edge Functions
 
-<div align="center">
+## 🔭 Vision 2030
 
-📧 **contact@omnirealm.tech**
-
-</div>
+We're building for what comes after touchscreens — spatial computing, ambient intelligence, and next-generation interaction paradigms beyond traditional browsers.
 
 ---
 
-<div align="center">
-<sub>Made with ❤️ in France 🇫🇷</sub>
-</div>
+<p align="center">
+  <a href="https://twitter.com/OmniRealmDev">Twitter</a>
+  ·
+  <a href="mailto:contact@omnirealm.tech">Contact</a>
+  <br /><br />
+  <sub>Made with ❤️ in France 🇫🇷</sub>
+</p>
