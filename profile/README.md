@@ -37,7 +37,7 @@
 - **Open Source First** — Transparency and community-driven development
 - **Privacy by Design** — GDPR-compliant, European hosting
 - **Security Priority** — Regular audits, encryption, zero-trust
-- **Quality Standards** — >70% test coverage, sub-100ms response times
+- **Quality Standards** — >90% test coverage, sub-100ms response times
 
 ## 🛠️ Tech Stack
 
