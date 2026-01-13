@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://omnirealm.tech">
-    <img src="https://omnirealm.tech/og-image.png" alt="OmniRealm" width="400">
+    <img src="https://omnirealm.tech/og-image.jpg" alt="OmniRealm" width="400">
   </a>
 </p>
 
