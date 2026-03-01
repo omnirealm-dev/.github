@@ -4,57 +4,60 @@
   </a>
 </p>
 
-<h3 align="center">Let's Build the Future Together</h3>
+<h3 align="center">Building the Grid where innovation self-organizes</h3>
 
 <p align="center">
-  A complete digital ecosystem for productivity, health & security.<br/>
-  Modern, integrated apps designed to simplify your digital life.
+  A complete digital ecosystem — productivity, security, education, health & finance.<br/>
+  Modern apps built with world-class engineering standards.
   <br /><br />
-  <a href="https://omnirealm.tech"><strong>Explore OmniRealm »</strong></a>
-  <br /><br />
-  <a href="https://task.omnirealm.tech">OmniTask</a>
-  ·
-  <a href="https://bookmark.omnirealm.tech">OmniBookmark</a>
-  ·
-  <a href="https://secuscan.omnirealm.tech">SecuScan</a>
-  ·
-  <a href="https://consulting.omnirealm.tech">Consulting</a>
+  <a href="https://omnirealm.tech"><strong>Explore OmniRealm &raquo;</strong></a>
 </p>
 
 ---
 
-## 🎯 What We Build
+## What We Build
 
-| Product | Description |
-|---------|-------------|
-| **OmniTask** | AI-augmented task management with Kanban boards |
-| **OmniBookmark** | Smart bookmark manager with AI organization |
-| **SecuScan** | Automated security audits for web applications |
-| **OmniScan** | Document analysis that turns files into actionable data |
+| Product | Description | Status |
+|---------|-------------|--------|
+| [**OmniTask**](https://task.omnirealm.tech) | AI-augmented task management with Kanban boards | Live |
+| [**SecuScan**](https://secuscan.omnirealm.tech) | Automated security audits — OWASP, NIS2, GDPR, AI Act | Live |
+| [**OmniBookmark**](https://omnibookmark.omnirealm.tech) | Smart bookmark manager with AI organization | Live |
+| [**Consulting**](https://consulting.omnirealm.tech) | Senior fullstack consulting & technical blog | Live |
+| [**Mission Brevet**](https://brevet.omnirealm.tech) | EdTech AI — adaptive math exercises for students | Beta |
+| **FitRealm** | AI fitness coach that adapts to your life | Dev |
+| **IrisPro** | Medical-grade eye-tracking via webcam | Dev |
+| **FiscalPilot** | Freelance tax simulator with dedicated fiscal engine | Dev |
 
-## 🛡️ Our Principles
+## Our Principles
 
-- **Open Source First** — Transparency and community-driven development
-- **Privacy by Design** — GDPR-compliant, European hosting
-- **Security Priority** — Regular audits, encryption, zero-trust
-- **Quality Standards** — >90% test coverage, sub-100ms response times
+- **Security by Design** — OWASP audits, AES-256 encryption, zero-trust architecture
+- **Privacy First** — GDPR-compliant, European hosting, data sovereignty
+- **Quality Standards** — >90% test coverage, <100ms response times, 16 git hooks
+- **Ship Fast, Ship Right** — Speed through tools, never through shortcuts
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Current:** Next.js · React · TypeScript · Tailwind CSS · PostgreSQL · Prisma · tRPC
+**Core:** Next.js 15 · React 19 · TypeScript · Tailwind CSS · PostgreSQL · Prisma · Docker
 
-**Exploring:** Rust · WebAssembly · Spatial Computing · Edge Functions
+**Tools:** Rust · Claude API · Vitest · Turborepo · Sentry · PostHog
 
-## 🔭 Vision 2030
+## By the Numbers
 
-We're building for what comes after touchscreens — spatial computing, ambient intelligence, and next-generation interaction paradigms beyond traditional browsers.
+```
+20+ applications · 41 shared packages · 321K+ indexed chunks
+16 git hooks · 12 CI/CD workflows · Standards: Top 1%
+```
+
+## Vision
+
+We follow the **Emergence principle** — define invariants (top standards) + feedback loops (metrics) + freedom zones (free implementation) = optimal ecosystem emerges naturally.
 
 ---
 
 <p align="center">
-  <a href="https://twitter.com/OmniRealmDev">Twitter</a>
+  <a href="https://omnirealm.tech">Website</a>
   ·
   <a href="mailto:contact@omnirealm.tech">Contact</a>
   <br /><br />
-  <sub>Made with ❤️ in France 🇫🇷</sub>
+  <sub>Made with care in France</sub>
 </p>
