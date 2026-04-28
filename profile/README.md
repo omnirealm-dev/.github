@@ -31,6 +31,7 @@ Our R&D unfolds across **three coherent dimensions** — all built on the same t
 | Product | Description | Status |
 |---------|-------------|--------|
 | [**Wardek**](https://wardek.io) | Cybersecurity & compliance audits — OWASP, NIS2, GDPR, AI Act | Live |
+| [**Wardek Light**](https://omnirealm.tech/wardek-light) | Free 10-second cybersecurity badge for every website — viral, jargon-free | Live |
 | [**OmniTask**](https://task.omnirealm.tech) | AI-augmented task management with Kanban boards | Live |
 | [**OmniBookmark**](https://omnibookmark.omnirealm.tech) | Smart bookmark manager with AI organization | Live |
 | [**Consulting**](https://consulting.omnirealm.tech) | Senior fullstack consulting & technical blog | Live |
