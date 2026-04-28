@@ -34,7 +34,9 @@ Our R&D unfolds across **three coherent dimensions** — all built on the same t
 | [**OmniTask**](https://task.omnirealm.tech) | AI-augmented task management with Kanban boards | Live |
 | [**OmniBookmark**](https://omnibookmark.omnirealm.tech) | Smart bookmark manager with AI organization | Live |
 | [**Consulting**](https://consulting.omnirealm.tech) | Senior fullstack consulting & technical blog | Live |
-| [**Mission Brevet**](https://brevet.omnirealm.tech) | EdTech AI — adaptive math exercises for students | Beta |
+| [**Mission Brevet**](https://mission-brevet.omnirealm.tech) | EdTech AI — adaptive math exercises for students | Beta |
+| [**Asteroids**](https://asteroids.omnirealm.tech) | NEA space-mining prospecting dashboard with public API | Live |
+| [**ParcoursMap**](https://parcoursmap.omnirealm.tech) | Data-driven Parcoursup orientation with pSEO content | Beta |
 | **FitRealm** | AI fitness coach that adapts to your life | Dev |
 | **IrisPro** | Eye gymnastics PWA for knowledge workers (CVS prevention) | Dev |
 | **OmniSignal** | Time-series analysis toolkit (spectral approach) | R&D |
