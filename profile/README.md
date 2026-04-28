@@ -23,8 +23,8 @@ Our R&D unfolds across **three coherent dimensions** — all built on the same t
 | Dimension | Focus | Status 2026 |
 |-----------|-------|-------------|
 | 🔵 **Computational** | Universal data type · composition algebra · AI Act signatures · archeometric distances | Operational engine (Rust) |
-| 🟢 **Physical** | Bayesian inference for pre-industrial processes (concrete, alloys, biomaterials) | Framework operational · 11 candidates validated |
-| 🟠 **Industrial** | L2 lab (Vendée) · industrial partnerships · French R&D grants | Lab in setup |
+| 🟢 **Physical** | Bayesian inference for pre-industrial processes (concrete, alloys, biomaterials) | Framework operational · candidates in active validation |
+| 🟠 **Industrial** | Regional R&D lab · industrial partnerships · French R&D grants | Lab in setup |
 
 ## What We Build
 
